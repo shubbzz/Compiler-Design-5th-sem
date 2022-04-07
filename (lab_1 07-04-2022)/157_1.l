@@ -1,3 +1,7 @@
+/*
+program to count vowela and consonents
+/*
+
 %{
 	#include<stdio.h>
 	int c=0,v=0,n=0;
